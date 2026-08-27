@@ -16,7 +16,7 @@ AI · Data · Product를 연결해 **아이디어를 실제 동작하는 결과�
 </td>
 <td width="26%" align="center" valign="top">
 
-<img src="./github_readme_profile.png" width="230" alt="Honggyu Lee" />
+<img src="./github_readme_profile.png" width="240" alt="Honggyu Lee" />
 
 </td>
 </tr>
