@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="70%" valign="top">
+<td width="65%" valign="top">
 
 # Hi, I'm Honggyu Lee 👋
 
