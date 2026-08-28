@@ -4,13 +4,13 @@
 
 # Hi, I'm Honggyu Lee 👋
 
-AI · Data · Product를 연결해 **아이디어를 실제 동작하는 결과물로 만드는 과정**을 기록하고 있습니다.
+AI · Data · Product를 연결해 **아이디어를 실제 동작하는 결과물로 만들고, 실제 데이터와 사용자 피드백으로 다시 검증하는 과정**을 기록하고 있습니다.
 
 현재는 Python 기반 데이터 분석과 ML/DL, LLM 활용, 웹 서비스 구현을 함께 학습하며 프로젝트로 확장하고 있습니다.
 
+- 🛠️ **Product Engineering** — Next.js, React, TypeScript, Supabase, Vercel
 - 🤖 **AI / ML / DL** — prediction, classification, retention modeling
-- 🧠 **LLM / NLP** — prompt workflows, AI-assisted product features
-- 🛠️ **Product Engineering** — Next.js, TypeScript, Supabase, Vercel
+- 🧠 **LLM / NLP** — prompt workflows, MCP / Actions, evidence-driven AI features
 - 🐍 **Python / Algorithm** — coding test & problem solving practice
 
 </td>
@@ -25,6 +25,16 @@ AI · Data · Product를 연결해 **아이디어를 실제 동작하는 결과�
 ---
 
 ## 🚀 Featured Projects
+
+### 🧠 CHANGELOG — Personal Evidence AI for Developers `Building · Personal · AI/Product`
+
+AI 대화 · 문서 · GitHub에 흩어진 개발 기록을 연결해 **무엇을 했는가뿐 아니라 왜 그렇게 했는가까지 복원하는 개발자 작업 기억 시스템**입니다.
+
+- Discussion → Decision → Documentation → Implementation → Verification
+- 실제 GitHub API + Notion Snapshot 기반 **Connected Evidence Alpha**
+- Semantic Evidence · Change Set · Relation Candidate를 실제 기록으로 검증 중
+
+👉 [CHANGELOG Public Showcase](https://github.com/4hglee-ops/changelog-showcase)
 
 ### 🧠 Flowin — AI-assisted personal work system `Building · Personal`
 
@@ -66,6 +76,9 @@ AI · Data · Product를 연결해 **아이디어를 실제 동작하는 결과�
 
 ## 🧩 More Projects
 
+- **Titanic Survival Prediction** `Personal · ML` — Feature Engineering, OOF threshold, leakage-safe validation을 다시 검증하고 **당시의 선택·실패·학습을 Decision Log로 보존한 머신러닝 프로젝트**  
+  👉 [titanic-survival-prediction](https://github.com/4hglee-ops/titanic-survival-prediction)
+
 - **Online Shoppers Conversion ML** `Personal · ML` — 온라인 쇼핑 세션의 구매 전환 예측 및 Streamlit 실험 대시보드  
   👉 [online-shoppers-conversion-ml](https://github.com/4hglee-ops/online-shoppers-conversion-ml)
 
@@ -78,11 +91,11 @@ AI · Data · Product를 연결해 **아이디어를 실제 동작하는 결과�
 
 | Area | Current Focus |
 | --- | --- |
-| Product | Flowin · 사용자 피드백 기반 제품 개선 · AI workflow |
-| Machine Learning | Classification · Regression · Feature Engineering |
+| Product | **CHANGELOG · Flowin** · 실제 데이터/사용자 피드백 기반 제품 검증 · AI workflow |
+| Machine Learning | Classification · Regression · Feature Engineering · validation design |
 | Deep Learning | PyTorch · MLP · sequence modeling |
-| LLM / NLP | LLM application patterns · MCP / Actions · RAG exploration |
-| Data | Pandas · SQL · ETL · Supabase / PostgreSQL |
+| LLM / NLP | LLM application patterns · MCP / Actions · RAG / Evidence retrieval exploration |
+| Data | Pandas · SQL · ETL · SQLite · Supabase / PostgreSQL |
 | Algorithm | Programmers Level 1 · PCCE/PCCP 유형 연습 |
 
 ---
@@ -96,7 +109,7 @@ AI · Data · Product를 연결해 **아이디어를 실제 동작하는 결과�
 `scikit-learn` · `PyTorch`
 
 **Product / Web**  
-`Next.js` · `React` · `TypeScript` · `FastAPI` · `Supabase` · `PostgreSQL` · `MySQL` · `Vercel`
+`Next.js` · `React` · `TypeScript` · `FastAPI` · `Supabase` · `PostgreSQL` · `MySQL` · `SQLite` · `Vercel`
 
 **Workflow**  
 `Git` · `GitHub` · `Jupyter Notebook` · `Streamlit`
