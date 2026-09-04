@@ -97,7 +97,7 @@ AI 대화 · 문서 · GitHub에 흩어진 개발 기록을 연결해 **무엇�
 | Deep Learning | PyTorch · MLP · sequence modeling |
 | LLM / NLP | LLM application patterns · MCP / Actions · RAG / Evidence retrieval exploration |
 | Data | Pandas · SQL · ETL · SQLite · Supabase / PostgreSQL |
-| Algorithm | Programmers Level 1 · PCCE/PCCP 유형 연습 |
+| Algorithm | Programmers Level 1 · PCCP 유형 연습 |
 
 ---
 
@@ -122,9 +122,9 @@ AI 대화 · 문서 · GitHub에 흩어진 개발 기록을 연결해 **무엇�
 - ✅ Programmers 코딩테스트 입문 Complete
 - ✅ Programmers 코딩 기초 트레이닝 Complete
 - ✅ Programmers Level 0 Complete
-- ✅ PCCE Lv.2 · 742
+- ✅ PCCE Lv.3 · 856 / 1000
 - 🔄 Programmers Level 1
-- 🔄 PCCE / PCCP 유형 연습
+- 🔄 PCCP 유형 연습
 
 👉 [Python Coding Test Study](https://github.com/4hglee-ops/python)
 
