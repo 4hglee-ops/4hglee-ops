@@ -21,24 +21,25 @@ AI · Data · Product를 연결해 **아이디어를 실제 동작하는 결과�
 
 ## 🚀 Featured Projects
 
-### 🧠 CHANGELOG — Personal Evidence AI `Building · Personal · AI/Product`
+**🤝 Team Projects**
 
-AI 대화 · 문서 · GitHub에 흩어진 기록을 연결해 **무엇을 했는가뿐 아니라 왜 그렇게 판단했는가까지 복원하는 개인 작업 기억 시스템**입니다.
+### 🏛️ 나라장터 변경공고 대응형 입찰 제출 검증기 `Team Project · Team Lead · LLM/RAG`
 
-- Discussion → Decision → Documentation → Implementation → Verification
-- 기록의 관계·변화·패턴을 탐색하는 Personal Evidence AI로 확장 중
+원공고를 기준으로 준비한 자격판정·필수서류가 **변경공고 이후에도 유효한지 다시 확인**하고, 변경 조건과 원문 근거를 연결하는 팀 프로젝트입니다.
 
-👉 [CHANGELOG Public Showcase](https://github.com/4hglee-ops/changelog-showcase)
+**My role** — 팀장 · LLM/RAG · AI Copilot · GitHub/Discord 협업 인프라 · 서비스 통합 기준선 운영
 
-### ✅ Flowin — AI-assisted Personal Work System `Building · Personal Product`
+👉 [gyuniverse-hq/bid-change-validator](https://github.com/gyuniverse-hq/bid-change-validator)
 
-생각나는 일을 빠르게 Capture하고 AI로 정리해 **지금 무엇을 해야 하는지에 집중하도록 돕는 개인 작업 관리 서비스**입니다.
+### 🍽️ Yelp Reviewer Retention Ops `Team Project · Team Lead`
 
-- Quick Capture → Inbox → Today / Focus
-- Next.js · TypeScript · Supabase · PostgreSQL
-- **부트캠프 내 실제 사용 중이며, 사용자 피드백을 바탕으로 UX와 정보 구조를 반복 개선**
+핵심 리뷰어의 다음 연도 **활동 유지·약화·중단을 예측하고 운영자의 다음 행동까지 연결하는 리텐션 운영 서비스**입니다.
 
-👉 [Flowin Public Showcase](https://github.com/4hglee-ops/flowin-showcase)
+**My role** — 팀장 · 프로토타입 설계/구현 · 공통 데이터 규격/서비스 통합 · 운영 UI/UX 및 제품 문서 체계화
+
+👉 [SKN34 2nd Team Project](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN34-2nd-5Team) · [Personal DL Experiment](https://github.com/4hglee-ops/yelp-retention-deep-learning)
+
+**🛠 Personal & Open Source**
 
 ### 🛡️ Gyuniverse GitHub Projects MCP `Open Source · MCP · TypeScript`
 
@@ -50,13 +51,24 @@ GitHub Projects v2를 ChatGPT·Claude 같은 AI에서 **조회·분석·안전�
 
 👉 [gyuniverse-github-projects-mcp](https://github.com/4hglee-ops/gyuniverse-github-projects-mcp)
 
-### 🏛️ 나라장터 변경공고 대응형 입찰 제출 검증기 `Team Project · Team Lead · LLM/RAG`
+### ✅ Flowin — AI-assisted Personal Work System `Building · Personal Product`
 
-원공고를 기준으로 준비한 자격판정·필수서류가 **변경공고 이후에도 유효한지 다시 확인**하고, 변경 조건과 원문 근거를 연결하는 팀 프로젝트입니다.
+생각나는 일을 빠르게 Capture하고 AI로 정리해 **지금 무엇을 해야 하는지에 집중하도록 돕는 개인 작업 관리 서비스**입니다.
 
-**My role** — 팀장 · LLM/RAG · AI Copilot · GitHub/Discord 협업 인프라 · 서비스 통합 기준선 운영
+- Quick Capture → Inbox → Today / Focus
+- Next.js · TypeScript · Supabase · PostgreSQL
+- **부트캠프 내 실제 사용 중이며, 사용자 피드백을 바탕으로 UX와 정보 구조를 반복 개선**
 
-👉 [gyuniverse-hq/bid-change-validator](https://github.com/gyuniverse-hq/bid-change-validator)
+👉 [Flowin Public Showcase](https://github.com/4hglee-ops/flowin-showcase)
+
+### 🧠 CHANGELOG — Personal Evidence AI `Building · Personal · AI/Product`
+
+AI 대화 · 문서 · GitHub에 흩어진 기록을 연결해 **무엇을 했는가뿐 아니라 왜 그렇게 판단했는가까지 복원하는 개인 작업 기억 시스템**입니다.
+
+- Discussion → Decision → Documentation → Implementation → Verification
+- 기록의 관계·변화·패턴을 탐색하는 Personal Evidence AI로 확장 중
+
+👉 [CHANGELOG Public Showcase](https://github.com/4hglee-ops/changelog-showcase)
 
 ### ⚽ European Football Goal Prediction `Personal · ML/DL`
 
@@ -68,23 +80,15 @@ GitHub Projects v2를 ChatGPT·Claude 같은 AI에서 **조회·분석·안전�
 
 👉 [european-football-goal-prediction](https://github.com/4hglee-ops/european-football-goal-prediction)
 
-### 🍽️ Yelp Reviewer Retention Ops `Team Project · Team Lead`
-
-핵심 리뷰어의 다음 연도 **활동 유지·약화·중단을 예측하고 운영자의 다음 행동까지 연결하는 리텐션 운영 서비스**입니다.
-
-**My role** — 팀장 · 프로토타입 설계/구현 · 공통 데이터 규격/서비스 통합 · 운영 UI/UX 및 제품 문서 체계화
-
-👉 [SKN34 2nd Team Project](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN34-2nd-5Team) · [Personal DL Experiment](https://github.com/4hglee-ops/yelp-retention-deep-learning)
-
 ---
 
 ## 🧩 More Projects
 
-- **Gyuniverse Discord Bridge** `Open Source · MCP` — Discord 대화를 Evidence 기반 AI Context로 연결하는 Read-only MCP  
-  👉 [gyuniverse-discord-bridge](https://github.com/4hglee-ops/gyuniverse-discord-bridge)
-
 - **Car-BTI** `Team Project · Data / DB` — 자동차 등록 데이터 추출/전처리 · MySQL DB 설계 · 지역별 차량 특성 통계  
   👉 [SKN34 1st Team Project](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN34-1st-3Team) · [Data Pipeline](https://github.com/4hglee-ops/car-bti-data-pipeline)
+
+- **Gyuniverse Discord Bridge** `Open Source · MCP` — Discord 대화를 Evidence 기반 AI Context로 연결하는 Read-only MCP  
+  👉 [gyuniverse-discord-bridge](https://github.com/4hglee-ops/gyuniverse-discord-bridge)
 
 - **Titanic Survival Prediction** `Personal · ML` — Feature Engineering · leakage-safe validation · Decision Log  
   👉 [titanic-survival-prediction](https://github.com/4hglee-ops/titanic-survival-prediction)
